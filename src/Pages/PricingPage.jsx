@@ -157,9 +157,9 @@ const PricingPage = () => {
   <h2>Biorezonans</h2>
   <ul>
     <li>Biorezonans QUANTUM – <strong>180 zł</strong></li>
-    <li>Biorezonans MEZATOR M1 – Pakiet podstawowy</li>
-    <li>Biorezonans szczegółowy</li>
-    <li>Biorezonans szczegółowy z doborem indywidualnej terapii</li>
+    <li>Biorezonans MEZATOR M1 – Pakiet podstawowy – <strong>250 zł</strong></li>
+    <li>Biorezonans szczegółowy – <strong>300 zł</strong></li>
+    <li>Biorezonans szczegółowy z doborem indywidualnej terapii – <strong>300 zł</strong></li>
     <li>Kontrolny biorezonans – <strong>180 zł</strong></li>
   </ul>
 </section>
@@ -167,8 +167,8 @@ const PricingPage = () => {
 <section id="biorezonans-promocja-cennik">
   <h2>Biorezonans MEZATOR M1 – PROMOCJA</h2>
   <ul>
-    <li>Pakiet podstawowy (wykaz patogenów, stan wybranych organów) – <del>350 zł</del> <strong>300 zł</strong></li>
-    <li>Biorezonans szczegółowy – pasożyty, stan organów, homeostaza biochemiczna, alergeny, obciążenia energetyczne, hormony, wiek biologiczny, litoterapia, prognoza stanu organizmu na 1 rok, 5 lat</li>
+    <li>Pakiet podstawowy (wykaz patogenów, stan wybranych organów) – <strong>250 zł</strong></li>
+    <li>Biorezonans szczegółowy – pasożyty, stan organów, homeostaza biochemiczna, alergeny, obciążenia energetyczne, hormony, wiek biologiczny, litoterapia, prognoza stanu organizmu na 1 rok, 5 lat – <del>350 zł</del> <strong>300 zł</strong></li>
     <li>Biorezonans szczegółowy z doborem indywidualnej terapii – Fitoterapia, suplementacja, kierunek żywieniowy – <del>400 zł</del> <strong>300 zł</strong></li>
     <li>Kontrolny biorezonans – <strong>180 zł</strong></li>
   </ul>
