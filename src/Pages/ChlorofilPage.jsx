@@ -5,7 +5,7 @@ function ChlorofilPage() {
         <div className="product-container">
             
             <img 
-                src="/images/CHLOROFIL.jpg" 
+                src="/images/ch.jpg" 
                 alt="Butelka chlorofilu" 
                 style={{ width: "100%", maxWidth: "500px", display: "block", margin: "20px auto" }}
             />
